@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family:"Google Sans Regular";
+    box-sizing: border-box;
+}
+body{
+    background-color:burlywood;
+}
+nav.header.navbar.navs{
+    width: 100%;
+    height:40%;
+    display: flex;git
+    align-items: center;
+    justify-content:space-between;
+    display: flex;
+}
+.navs li{
+    display: inline;
+    align-items: right;
+    left: 50%;
+}
